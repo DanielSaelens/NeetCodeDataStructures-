@@ -1,0 +1,5 @@
+Notes for BST:
+
+Predecessor: go left once, then right until you cannot: That is the max of the left subtree
+
+Successor: go right once, then left until you cannot: That is the min of the right subtree
